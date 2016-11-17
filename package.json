@@ -1,0 +1,13 @@
+{
+  "name": "ipynb2md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Poga Po<poga.bahamut@gmail.com>",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
