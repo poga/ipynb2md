@@ -2,7 +2,9 @@
 
 convert jupyter notebook to markdown.
 
-`npm i ipynb2md`
+```
+npm i ipynb2md
+```
 
 ## Usage
 
